@@ -1,0 +1,11 @@
+C:\Github\DataStructures\ZigZagProject\bin\Debug\netcoreapp3.1\ZigZagProject.exe
+C:\Github\DataStructures\ZigZagProject\bin\Debug\netcoreapp3.1\ZigZagProject.deps.json
+C:\Github\DataStructures\ZigZagProject\bin\Debug\netcoreapp3.1\ZigZagProject.runtimeconfig.json
+C:\Github\DataStructures\ZigZagProject\bin\Debug\netcoreapp3.1\ZigZagProject.runtimeconfig.dev.json
+C:\Github\DataStructures\ZigZagProject\bin\Debug\netcoreapp3.1\ZigZagProject.dll
+C:\Github\DataStructures\ZigZagProject\bin\Debug\netcoreapp3.1\ZigZagProject.pdb
+C:\Github\DataStructures\ZigZagProject\obj\Debug\netcoreapp3.1\ZigZagProject.csprojAssemblyReference.cache
+C:\Github\DataStructures\ZigZagProject\obj\Debug\netcoreapp3.1\ZigZagProject.AssemblyInfoInputs.cache
+C:\Github\DataStructures\ZigZagProject\obj\Debug\netcoreapp3.1\ZigZagProject.AssemblyInfo.cs
+C:\Github\DataStructures\ZigZagProject\obj\Debug\netcoreapp3.1\ZigZagProject.dll
+C:\Github\DataStructures\ZigZagProject\obj\Debug\netcoreapp3.1\ZigZagProject.pdb
