@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\DataStructures\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Github\\DataStructures\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Github\\DataStructures\\ConsoleApp1\\HeightBalancedBinaryTree.csproj",
+      "projectName": "HeightBalancedBinaryTree",
+      "projectPath": "C:\\Github\\DataStructures\\ConsoleApp1\\HeightBalancedBinaryTree.csproj",
       "packagesPath": "C:\\Users\\cuechi\\.nuget\\packages\\",
       "outputPath": "C:\\Github\\DataStructures\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",

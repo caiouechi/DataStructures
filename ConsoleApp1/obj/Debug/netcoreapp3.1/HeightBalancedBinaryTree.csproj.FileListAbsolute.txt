@@ -1,0 +1,11 @@
+C:\Github\DataStructures\ConsoleApp1\bin\Debug\netcoreapp3.1\HeightBalancedBinaryTree.exe
+C:\Github\DataStructures\ConsoleApp1\bin\Debug\netcoreapp3.1\HeightBalancedBinaryTree.deps.json
+C:\Github\DataStructures\ConsoleApp1\bin\Debug\netcoreapp3.1\HeightBalancedBinaryTree.runtimeconfig.json
+C:\Github\DataStructures\ConsoleApp1\bin\Debug\netcoreapp3.1\HeightBalancedBinaryTree.runtimeconfig.dev.json
+C:\Github\DataStructures\ConsoleApp1\bin\Debug\netcoreapp3.1\HeightBalancedBinaryTree.dll
+C:\Github\DataStructures\ConsoleApp1\bin\Debug\netcoreapp3.1\HeightBalancedBinaryTree.pdb
+C:\Github\DataStructures\ConsoleApp1\obj\Debug\netcoreapp3.1\HeightBalancedBinaryTree.csprojAssemblyReference.cache
+C:\Github\DataStructures\ConsoleApp1\obj\Debug\netcoreapp3.1\HeightBalancedBinaryTree.AssemblyInfoInputs.cache
+C:\Github\DataStructures\ConsoleApp1\obj\Debug\netcoreapp3.1\HeightBalancedBinaryTree.AssemblyInfo.cs
+C:\Github\DataStructures\ConsoleApp1\obj\Debug\netcoreapp3.1\HeightBalancedBinaryTree.dll
+C:\Github\DataStructures\ConsoleApp1\obj\Debug\netcoreapp3.1\HeightBalancedBinaryTree.pdb
