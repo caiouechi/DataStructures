@@ -1,0 +1,11 @@
+D:\Github\Studies\DataStructures\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+D:\Github\Studies\DataStructures\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+D:\Github\Studies\DataStructures\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+D:\Github\Studies\DataStructures\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+D:\Github\Studies\DataStructures\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+D:\Github\Studies\DataStructures\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+D:\Github\Studies\DataStructures\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csprojAssemblyReference.cache
+D:\Github\Studies\DataStructures\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+D:\Github\Studies\DataStructures\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+D:\Github\Studies\DataStructures\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+D:\Github\Studies\DataStructures\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb

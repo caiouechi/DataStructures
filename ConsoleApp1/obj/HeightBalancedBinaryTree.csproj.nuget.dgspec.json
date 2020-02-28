@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github\\DataStructures\\ConsoleApp1\\HeightBalancedBinaryTree.csproj": {}
+    "D:\\Github\\Studies\\DataStructures\\ConsoleApp1\\HeightBalancedBinaryTree.csproj": {}
   },
   "projects": {
-    "C:\\Github\\DataStructures\\ConsoleApp1\\HeightBalancedBinaryTree.csproj": {
+    "D:\\Github\\Studies\\DataStructures\\ConsoleApp1\\HeightBalancedBinaryTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\DataStructures\\ConsoleApp1\\HeightBalancedBinaryTree.csproj",
+        "projectUniqueName": "D:\\Github\\Studies\\DataStructures\\ConsoleApp1\\HeightBalancedBinaryTree.csproj",
         "projectName": "HeightBalancedBinaryTree",
-        "projectPath": "C:\\Github\\DataStructures\\ConsoleApp1\\HeightBalancedBinaryTree.csproj",
-        "packagesPath": "C:\\Users\\cuechi\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\DataStructures\\ConsoleApp1\\obj\\",
+        "projectPath": "D:\\Github\\Studies\\DataStructures\\ConsoleApp1\\HeightBalancedBinaryTree.csproj",
+        "packagesPath": "C:\\Users\\caio_\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\Studies\\DataStructures\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\cuechi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\caio_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
