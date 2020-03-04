@@ -1,0 +1,11 @@
+D:\Github\Studies\DataStructures\SerializationBinaryTree\bin\Debug\netcoreapp3.1\SerializationBinaryTree.exe
+D:\Github\Studies\DataStructures\SerializationBinaryTree\bin\Debug\netcoreapp3.1\SerializationBinaryTree.deps.json
+D:\Github\Studies\DataStructures\SerializationBinaryTree\bin\Debug\netcoreapp3.1\SerializationBinaryTree.runtimeconfig.json
+D:\Github\Studies\DataStructures\SerializationBinaryTree\bin\Debug\netcoreapp3.1\SerializationBinaryTree.runtimeconfig.dev.json
+D:\Github\Studies\DataStructures\SerializationBinaryTree\bin\Debug\netcoreapp3.1\SerializationBinaryTree.dll
+D:\Github\Studies\DataStructures\SerializationBinaryTree\bin\Debug\netcoreapp3.1\SerializationBinaryTree.pdb
+D:\Github\Studies\DataStructures\SerializationBinaryTree\obj\Debug\netcoreapp3.1\SerializationBinaryTree.csprojAssemblyReference.cache
+D:\Github\Studies\DataStructures\SerializationBinaryTree\obj\Debug\netcoreapp3.1\SerializationBinaryTree.AssemblyInfoInputs.cache
+D:\Github\Studies\DataStructures\SerializationBinaryTree\obj\Debug\netcoreapp3.1\SerializationBinaryTree.AssemblyInfo.cs
+D:\Github\Studies\DataStructures\SerializationBinaryTree\obj\Debug\netcoreapp3.1\SerializationBinaryTree.dll
+D:\Github\Studies\DataStructures\SerializationBinaryTree\obj\Debug\netcoreapp3.1\SerializationBinaryTree.pdb

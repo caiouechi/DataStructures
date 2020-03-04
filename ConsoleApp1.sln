@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeightBalancedBinaryTree", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZigZagProject", "ZigZagProject\ZigZagProject.csproj", "{C95191BE-709F-4688-A142-CA572889839F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{75386B13-AE76-4887-AE9E-7264D539B423}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{75386B13-AE76-4887-AE9E-7264D539B423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationBinaryTree", "SerializationBinaryTree\SerializationBinaryTree.csproj", "{6880140D-8EB2-43AD-88E9-15C1E9D6E46E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{75386B13-AE76-4887-AE9E-7264D539B423}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75386B13-AE76-4887-AE9E-7264D539B423}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75386B13-AE76-4887-AE9E-7264D539B423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6880140D-8EB2-43AD-88E9-15C1E9D6E46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6880140D-8EB2-43AD-88E9-15C1E9D6E46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6880140D-8EB2-43AD-88E9-15C1E9D6E46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6880140D-8EB2-43AD-88E9-15C1E9D6E46E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

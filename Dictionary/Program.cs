@@ -37,6 +37,7 @@ namespace Dictionary
                 Console.WriteLine(item);
             }
 
+            var boolean = newDictionary.ContainsKey("BA");
 
             foreach (var item in newList){
             try{
