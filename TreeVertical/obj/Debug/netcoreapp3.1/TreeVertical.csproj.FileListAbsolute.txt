@@ -1,0 +1,11 @@
+D:\Github\Studies\DataStructures\TreeVertical\bin\Debug\netcoreapp3.1\TreeVertical.exe
+D:\Github\Studies\DataStructures\TreeVertical\bin\Debug\netcoreapp3.1\TreeVertical.deps.json
+D:\Github\Studies\DataStructures\TreeVertical\bin\Debug\netcoreapp3.1\TreeVertical.runtimeconfig.json
+D:\Github\Studies\DataStructures\TreeVertical\bin\Debug\netcoreapp3.1\TreeVertical.runtimeconfig.dev.json
+D:\Github\Studies\DataStructures\TreeVertical\bin\Debug\netcoreapp3.1\TreeVertical.dll
+D:\Github\Studies\DataStructures\TreeVertical\bin\Debug\netcoreapp3.1\TreeVertical.pdb
+D:\Github\Studies\DataStructures\TreeVertical\obj\Debug\netcoreapp3.1\TreeVertical.AssemblyInfoInputs.cache
+D:\Github\Studies\DataStructures\TreeVertical\obj\Debug\netcoreapp3.1\TreeVertical.AssemblyInfo.cs
+D:\Github\Studies\DataStructures\TreeVertical\obj\Debug\netcoreapp3.1\TreeVertical.dll
+D:\Github\Studies\DataStructures\TreeVertical\obj\Debug\netcoreapp3.1\TreeVertical.pdb
+D:\Github\Studies\DataStructures\TreeVertical\obj\Debug\netcoreapp3.1\TreeVertical.csprojAssemblyReference.cache
